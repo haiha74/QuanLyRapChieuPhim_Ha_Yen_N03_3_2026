@@ -1,7 +1,7 @@
 # Lập trình cho thiết bị di động-1-3-25(N03)
 # QuanLyRapChieuPhim_Ha_Yen_N03_3_2026
 
-## Thành viên nhóm : 
+## Thành viên nhóm 
 * Nguyễn hải Hà - 23010469
 * Vũ Thị Hải Yến - 23010421
 
