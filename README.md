@@ -1,3 +1,4 @@
+# Lập trình cho thiết bị di động-1-3-25(N03)
 # QuanLyRapChieuPhim_Ha_Yen_N03_3_2026
 ##  Thành viên nhóm
 
@@ -8,10 +9,8 @@
 
 ##  Nội dung thực hiện trong bài thực hành 01 
 * Tạo repo cho nhóm, lấy tên : QuanLyRapChieuPhim_Ha_Yen_N03_3_2026
-* Cài đặt môi trường Flutter và VS Code
-* Tạo project Flutter mới : quanlyrapchieuphim__ha_yen_n03_3_2026
-* Chỉnh sửa file `main.dart` 
-* Đổi tiêu đề ứng dụng 
-* Hiển thị thông tin thành viên nhóm trên giao diện
+* Add thành viên (members) vào Repo nhóm
+* Cài đặt môi trường Flutter , VS Code , framework Flutter cho nhóm để làm việc từ buổi ngày 8/4/2026 đến hết môn học.
+* Chỉnh sửa file `main.dart` : Đổi tên đề tài của nhóm , hiển thị thông tin thành viên nhóm.
 
 
