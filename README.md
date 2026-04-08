@@ -6,7 +6,7 @@
 
 ---
 
-##  Nội dung thực hiện
+##  Nội dung thực hiện trong bài thực hành 01 
 * Tạo repo cho nhóm, lấy tên : QuanLyRapChieuPhim_Ha_Yen_N03_3_2026
 * Cài đặt môi trường Flutter và VS Code
 * Tạo project Flutter mới : quanlyrapchieuphim__ha_yen_n03_3_2026
